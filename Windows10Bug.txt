@@ -1,0 +1,1 @@
+https://stackoverflow.com/questions/43914202/coded-ui-test-builder-last-mouse-action-was-not-recorded-happened-since-wind
